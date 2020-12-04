@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![About Mohammed Sadiq](https://gitlab.com/uploads/-/system/personal_snippet/2046617/5a419892301adde38e21fa3bfb24358a/Profile_README.md.png)
+![About Mohammed Sadiq](https://github.com/m-zaink/m-zaink/blob/main/Profile%20README.md.png?raw=true)
 <!--
 **m-zaink/m-zaink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

@@ -5,6 +5,8 @@
 **m-zaink/m-zaink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=m-zaink&count_private=true&show_icons=true&layout=default)
+
 Beyond above, read below to know me more!
 - 🤔 I’m looking for help with iOS apps.
 - 💬 Ask me about books majorly other than of coding and developing.

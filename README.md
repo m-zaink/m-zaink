@@ -3,9 +3,12 @@
 -->
 <h2 align="center">Hi there 👋</h2>
 
-<p align="center">
-<img src="https://github.com/m-zaink/m-zaink/blob/main/Profile%20README.md.png?raw=true" alt="About Mohammed Sadiq" width="800" height="400">
-</p>
+I'm an iOS Developer and a crypto-aficionado.
+
+Following are some of the application that I'm currently working on--
+1. TwitterX (iOS Application written in Swift).
+2. TwitterX (iOS Application written in SwiftUI).
+3. TwitterX (backend Application written in NodeJS).
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=m-zaink&count_private=true&show_icons=true&layout=default" alt="About Mohammed Sadiq" width="700" height="350">

@@ -14,14 +14,6 @@ One specific repository I'm very enthusiastic about is [Web3](https://github.com
 
 If not engineering software prodcuts, I write blogs [@M Zain](https://medium.com/m-zain) and [@HashThree](https://medium.com/hashthree)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m-zaink&count_private=true&show_icons=true&layout=default" alt="About Mohammed Sadiq" width="700" height="350">
-</p>
-
-
-<h3 align="center"> Beyond above, read below to know me more! </h3>
-
----
-- 📫 How to reach me? • [MZainkOfficial@gmail.com](mailto:mzainkofficial@gmail.com) • [IAmZainkish@Twitter](https://twitter.com/IAmZainkish)
+- 📫 [MZainkOfficial@gmail.com](mailto:mzainkofficial@gmail.com) • [IAmZainkish@Twitter](https://twitter.com/IAmZainkish)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hail from India which houses one of the 7 wonders!

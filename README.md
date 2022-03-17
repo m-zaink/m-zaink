@@ -14,6 +14,7 @@ One specific repository I'm very enthusiastic about is [Web3](https://github.com
 
 If not engineering software prodcuts, I write blogs [@M Zain](https://medium.com/m-zain) and [@HashThree](https://medium.com/hashthree)
 
-- 📫 [MZainkOfficial@gmail.com](mailto:mzainkofficial@gmail.com) • [IAmZainkish@Twitter](https://twitter.com/IAmZainkish)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hail from India which houses one of the 7 wonders!
+- 📫 `Contact` [MZainkOfficial@gmail.com](mailto:mzainkofficial@gmail.com) • [IAmZainkish@Twitter](https://twitter.com/IAmZainkish)
+- 🙋🏾‍♂️ `Resume` [Resume.pdf](https://github.com/m-zaink/m-zaink/raw/main/Resume.pdf)
+- 😄 `Pronouns` He/Him
+- ⚡ `Fun fact` I hail from India which houses one of the 7 wonders!

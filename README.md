@@ -24,7 +24,7 @@ One specific repository I'm very enthusiastic about is [Web3](https://github.com
 
 If not engineering software products, I write blogs [@M Zain](https://medium.com/m-zain) and [@HashThree](https://medium.com/hashthree).
 
-- 📨 [`MZainkOfficial@gmail.com`](mailto:mzainkdev@gmail.com)
+- 📨 [`MZainkOfficial@gmail.com`](mailto:mzainkofficial@gmail.com)
 - 🕸 [`IAmZainkish@Twitter`](https://twitter.com/IAmZainkish) • [`LinkedIn`](https://www.linkedin.com/in/mzaink/) • [`StackOverflow`](https://stackoverflow.com/users/8727589/mzaink)
 - 🖥 [`HashThree`](https://medium.com/hashthree) • [`Avid Readers`](https://medium.com/avid-reader) • [`M Zain`](https://medium.com/m-zain)
 - 📜 [`Resume`](https://github.com/m-zaink/m-zaink/raw/main/Resume.pdf)
